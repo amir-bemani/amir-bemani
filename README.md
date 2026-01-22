@@ -23,7 +23,6 @@
 - 💻 **Languages:** Python, SQL, R, German (A1)
 
 #### 🔬 Current Focus
-- 🧠 **Research:** Alzheimer's Disease Detection using Deep Learning
 - 📚 **Learning:** Docker, Kubernetes, MLOps, Cloud (AWS/Azure)
 - 💡 **Interests:** Healthcare AI, Medical Imaging, A/B Testing
 - 🤝 **Seeking:** Collaboration on Production ML Pipelines
@@ -43,7 +42,6 @@
 <td width="50%" valign="top">
 
 ### 🔬 Currently Working On
-- 🧠 **Alzheimer's Disease Diagnosis** using MRI Analysis & Deep Learning
 - 📊 Building production-ready ML pipelines for healthcare applications
 - 🎯 Experimenting with A/B testing frameworks for data-driven decisions
 
@@ -140,7 +138,6 @@
 <td width="33%" align="center">
 <img src="https://img.icons8.com/color/96/000000/health-graph.png" width="64"/>
 <h3>Healthcare AI</h3>
-<p>Medical Imaging • MRI Analysis<br/>Alzheimer's Detection • Clinical Data<br/>Disease Prediction • Biomedical NLP</p>
 </td>
 </tr>
 </table>
@@ -149,24 +146,7 @@
 
 ## 🏆 **Highlighted Projects**
 
-### 🧠 Alzheimer's Disease Detection System
-> Deep Learning-based diagnostic tool using MRI scans for early Alzheimer's detection
-
-**Tech Stack**: `Python` `TensorFlow` `Keras` `OpenCV` `Streamlit` `Docker`
-
-**Features**:
-- 🎯 Multi-class classification (4 stages: Non-Demented, Very Mild, Mild, Moderate)
-- 📊 Interactive Streamlit dashboard for visualization
-- 🔄 Real-time prediction with confidence scores
-- 📈 Performance metrics: Accuracy, Precision, Recall, F1-Score
-
----
-
-## 💬 **Let's Connect!**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein-bemani)
+(https://linkedin.com/in/amirhossein-bemani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir@bemani.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amir-bemani)
 
