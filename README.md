@@ -9,28 +9,27 @@
 ### 🎯 About Me
 
 ```python
-class DataScientist:
+clclass DataScientist:
     def __init__(self):
         self.name = "Amirhossein Bemani Vandish"
         self.role = "Data Science & Digital Health Master's Student"
         self.location = "Nürnberg, Germany 🇩🇪"
         self.languages = ["Python", "SQL", "R", "German (A1)"]
-        
+
     def current_focus(self):
         return {
             "research": "Alzheimer's Disease Detection using Deep Learning",
             "learning": ["Docker", "Kubernetes", "MLOps", "Cloud (AWS/Azure)"],
             "interests": ["Healthcare AI", "Medical Imaging", "A/B Testing"],
-            "seeking": "Collaboration on Production ML Pipelines"
+            "seeking": "Collaboration on Production ML Pipelines",
         }
-    
+
     def skills(self):
         return {
             "core": ["Machine Learning", "Statistics", "Data Analysis"],
             "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
             "data": ["Pandas", "NumPy", "SQL", "PostgreSQL"],
             "deployment": ["Docker", "Git", "Streamlit"],
-            "cloud": ["AWS", "Azure"]
+            "cloud": ["AWS", "Azure"],
         }
-
 me = DataScientist()
