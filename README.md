@@ -16,7 +16,6 @@
 
 ### 🎯 **About Me**
 
-```python
 class DataScientist:
     def __init__(self):
         self.name = "Amirhossein Bemani Vandish"
@@ -42,7 +41,6 @@ class DataScientist:
         }
 
 me = DataScientist()
-```
 
 </div>
 
