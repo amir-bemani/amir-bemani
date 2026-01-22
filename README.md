@@ -17,34 +17,23 @@
 
 ### 🎯 **About Me**
 
-class DataScientist:
-    def __init__(self):
-        self.name = "Amirhossein Bemani Vandish"
-        self.role = "Data Science & Digital Health Master's Student"
-        self.location = "Nürnberg, Germany 🇩🇪"
-        self.languages = ["Python", "SQL", "R", "German (A1)"]
-        
-    def current_focus(self):
-        return {
-            "research": "Alzheimer's Disease Detection using Deep Learning",
-            "learning": ["Docker", "Kubernetes", "MLOps", "Cloud (AWS/Azure)"],
-            "interests": ["Healthcare AI", "Medical Imaging", "A/B Testing"],
-            "seeking": "Collaboration on Production ML Pipelines"
-        }
-    
-    def skills(self):
-        return {
-            "core": ["Machine Learning", "Statistics", "Data Analysis"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "data": ["Pandas", "NumPy", "SQL", "PostgreSQL"],
-            "deployment": ["Docker", "Git", "Streamlit"],
-            "cloud": ["AWS", "Azure"]
-        }
+- 👤 **Name:** Amirhossein Bemani Vandish
+- 🎓 **Role:** Data Science & Digital Health Master's Student
+- 📍 **Location:** Nürnberg, Germany 🇩🇪
+- 💻 **Languages:** Python, SQL, R, German (A1)
 
-me = DataScientist()
+#### 🔬 Current Focus
+- 🧠 **Research:** Alzheimer's Disease Detection using Deep Learning
+- 📚 **Learning:** Docker, Kubernetes, MLOps, Cloud (AWS/Azure)
+- 💡 **Interests:** Healthcare AI, Medical Imaging, A/B Testing
+- 🤝 **Seeking:** Collaboration on Production ML Pipelines
 
-</div>
-
+#### 🛠️ Skills
+- **Core:** Machine Learning, Statistics, Data Analysis
+- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Data:** Pandas, NumPy, SQL, PostgreSQL
+- **Deployment:** Docker, Git, Streamlit
+- **Cloud:** AWS, Azure
 ---
 
 ## 🚀 **What I'm Up To**
@@ -191,19 +180,11 @@ me = DataScientist()
 
 ## ⚡ **Fun Facts**
 
-```python
-fun_facts = [
-    "🐍 I can debug Python faster than I can speak German (still at A1 level!)",
-    "🧠 Passionate about making AI accessible in healthcare",
-    "📚 Always learning - currently exploring MLOps and cloud architecture",
-    "☕ Powered by coffee and curiosity",
-    "🎯 Believer in data-driven decision making"
-]
-
-for fact in fun_facts:
-    print(fact)
-```
-
+- 🐞 I can debug Python faster than I can speak German (still at A1 level!)
+- 🩺 Passionate about making AI accessible in healthcare
+- 📚 Always learning - currently exploring MLOps and cloud architecture
+- ☕ Powered by coffee and curiosity
+- 🎯 Believer in data-driven decision making
 ---
 
 <div align="center">
