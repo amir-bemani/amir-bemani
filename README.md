@@ -19,7 +19,7 @@
 - 	👤 **Name:** Amirhossein Bemani Vandish
 - 	🎓 **Role:** M.Sc. Data Science & Digital Health Student (In Progress)
 - 	📍 **Location:** Nürnberg, Germany 🇩🇪
-- 	🗣️ **Languages:** Persian (Native), English (Professional), German (A2)
+- 	🗣️ **Languages:** Persian (Native), English (Professional), German (A2, actively improving)
 - 	💻 **Programming:** Python, SQL, R
 
 #### 🔬 Current Focus
