@@ -134,7 +134,7 @@
 
 ## 💼 **Work Experience**
 
-### 🏭 HSE Engineer — Omran Azarestan Co. (Construction)
+### 🏭 HSE Engineer — Azarestan Civil Engineering Co. (Construction)
 > 📅 Aug 2021 – Jul 2022 | Tehran, Iran
 > 
 > Monitored occupational safety on construction sites and implemented risk mitigation measures in collaboration with site managers and engineers.
@@ -149,6 +149,14 @@
 > - Prepared management reports and led staff training on safety & hygiene procedures
 
 ---
+
+### 🏥 HSE Intern — Kasra Hospital (Hospital Environment)
+
+> 📅 Mar 2021 – Jul 2021 | Tehran, Iran
+> >
+> >> Supported the implementation of hygiene and safety protocols in a clinical hospital environment. Assisted in risk assessments, safety inspections and compliance monitoring in accordance with healthcare regulations.
+> >>
+> >> ---
 
 ## 🎓 **Education**
 
