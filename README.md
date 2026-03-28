@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Science+%26+AI+Engineering;Fullstack+Engineering+%7C+Deep+Learning;Next.js+%7C+NestJS+%7C+React+%7C+Flutter;Health+Tech+Solutions+%26+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Science+%26+AI+Engineering;M.Sc.+Data+Science+%26+Digital+Health+Student;Full-Stack+Development+%7C+MLOps;Python+%7C+Next.js+%7C+PyTorch+%7C+NestJS" alt="Typing SVG" />
 </h3>
 
 </div>
@@ -17,7 +17,7 @@
 ### 🎯 **About Me**
 
 * • 👤 **Name:** Amirhossein Bemani Vandish
-* • 🎓 **Role:** Data Science & AI Engineering
+* • 🎓 **Role:** Data Science & AI Engineering | M.Sc. Digital Health Student
 * • 📍 **Location:** Nürnberg, Germany 🇩🇪
 * • 🗣️ **Languages:** Persian (Native), English (Professional), German (A2 – actively improving)
 * • 💻 **Programming:** Python, SQL, R
@@ -98,46 +98,59 @@ I am a versatile Data Scientist and Fullstack Developer with a background in dig
 ## 🏆 **Highlighted Projects**
 
 ### 👷 Safety Helmet Detection — Real-Time Computer Vision
-> **Tech:** YOLOv8 · Python · Computer Vision
+> **Tech:** YOLOv8 · Python · OpenCV · AI Engineering
 > 
-> Real-time computer vision system utilizing YOLOv8 for safety compliance. Bypasses standard hardware loops to ingest multi-source live monitors reliably.
+> Real-time computer vision system utilizing YOLOv8 for safety compliance. Bypasses standard hardware loops to ingest multi-source live monitors reliably. Includes multi-stream ingestion and deep performance optimization for low-latency monitoring.
+> [View Repository](https://github.com/amir-bemani/Safety-Helmet-Detection)
 
 ---
 
-### 🫀 Heart Disease Risk Prediction — Comparative Analysis
-> **Tech:** Scikit-learn · Python · Pandas · UCI Cardiac datasets
+### 🫀 Heart Disease Risk Prediction — ML University Project
+> **Tech:** Python · Scikit-learn · Pandas · Matplotlib · Seaborn · UCI Cardiac datasets
 > 
-> Comparative model training analysis (Logistic Regression, KNN, SVM) on UCI Cardiac datasets archiving accurate diagnostic trend distributions.
+> Built a classification model to predict heart disease risk using clinical features. Applied feature engineering, model comparison (Logistic Regression, Random Forest, SVM, KNN), cross-validation, and deep performance evaluation (ROC-AUC: 0.908, F1-score, confusion matrices).
+> [View Repository](https://github.com/amir-bemani/Heart-Disease-Risk-Prediction)
 
 ---
 
-### 🍽️ Dönerhaus Nürnberg — Full-Stack Restaurant Ecosystem
-> **Tech:** Next.js · TypeScript · Supabase · Prisma · GSAP
+### 🍽️ Dönerhaus Nürnberg — Full-Stack Restaurant Platform
+> **Tech:** Next.js · TypeScript · React · Tailwind CSS · Supabase · Prisma · JWT · GSAP
 > 
-> Multi-layered Next.js restaurant ecosystem factoring in digital QR loyalty passes, CRM dashboards, and optimized marketing static pipelines.
+> Multi-layered restaurant ecosystem featuring a digital QR loyalty system with membership cards, stamp tracking, and tiered rewards. Includes a secure Admin/Seller panel with JWT-based role management and customer analytics.
+> [View Repository](https://github.com/amir-bemani/Doner-Haus-Webapp)
+
+---
+
+### 🛒 Persia Market — Multi-Role E-Commerce System
+> **Tech:** NestJS · Next.js · Flutter · PostgreSQL · Prisma · JWT
+> 
+> Designed a multi-platform ecosystem with separate interfaces for admins, sellers, end-users, and couriers. Features real-time inventory per store, GPS-based store mapping, and multi-language support (FA/EN/DE).
+> [View Repository](https://github.com/amir-bemani/persia-market-panel)
 
 ---
 
 ### 🏥 Medical Dataset Diagnostics — Explorative Data Analysis (EDA)
-> **Tech:** Python · Data Analytics · Dashboards
+> **Tech:** Python · Pandas · Seaborn · Jupyter · Data Analytics
 > 
-> In-depth explorative data analysis (EDA) framing clinical patient metric analytics and health benchmark trend forecast dashboards.
+> In-depth explorative data analysis (EDA) framing clinical patient metric analytics and health benchmark trend forecast dashboards. Focuses on data processing pipelines and visual data distribution trends.
+> [View Repository](https://github.com/amir-bemani/Medical-Dataset-Analysis)
 
 ---
 
-### 🏗️ OSHA Incident Analysis — Predictive Hazard Mitigation
-> **Tech:** Data Auditing · Predictive Analytics · Reporting
+### 🏗️ OSHA Incident Analysis — Construction Hazard Mitigation
+> **Tech:** Python · Data Science · Pre-processing · Predictive Analytics
 > 
-> Deep audit of high-rise construction workplace site failure trends supporting predictive hazard mitigation auditing and dynamic reporting.
+> Deep audit of high-rise construction workplace site failure trends supporting predictive hazard mitigation auditing and dynamic reporting. Focuses on historical safety metric analysis and failure trend projection.
+> [View Repository](https://github.com/amir-bemani/OSHA-Construction-Incident-Analysis)
 
 ---
 
 ## 💼 **Work Experience**
 
 ### 🥛 HSE Specialist — Teen Dairy Co. (Damdaran)
-> 📅 Nov 2023 – Sep 2024
+> 📅 Nov 2023 – Sep 2024 | Food Production
 > 
-> - Ensured ISO and 5S compliance in a large-scale food production facility with 200+ staff.
+> - Ensured ISO and 5S compliance across a large-scale food production facility with 200+ staff.
 > - Conducted regular safety audits, risk assessments, and incident investigations.
 > - Led staff training programs on safety protocols and hygiene procedures.
 > - Prepared management reports and KPI dashboards for executive review.
@@ -145,19 +158,23 @@ I am a versatile Data Scientist and Fullstack Developer with a background in dig
 ---
 
 ### 🏭 HSE Engineer — Azarestan Civil Engineering Co.
-> 📅 Aug 2021 – Jul 2022
+> 📅 Aug 2021 – Jul 2022 | Construction
 > 
 > - Monitored occupational safety compliance on high-rise construction sites.
 > - Implemented risk mitigation protocols in coordination with project engineers and site managers.
 > - Performed regular safety inspections and reported findings to senior management.
+> - Collaborated with construction site teams to ensure minimal incidents during structural phases.
 
 ---
 
-### 🏥 HSE Intern — Hospital Environment (Kasra Hospital)
-> 📅 Mar 2021 – Jul 2021
+### 🏥 HSE Intern — Kasra Hospital
+> 📅 Mar 2021 – Jul 2021 | Hospital Environment
 > 
 > - Supported implementation of hygiene and safety protocols in a clinical hospital environment.
 > - Assisted in risk assessments, safety inspections and compliance monitoring per healthcare regulations.
+> - Contributed to the reporting and documentation of safety standards in a high-stakes medical facility.
+
+---
 
 ## 🎓 **Education**
 
@@ -165,8 +182,6 @@ I am a versatile Data Scientist and Fullstack Developer with a background in dig
 |---|---|---|
 | 🎓 M.Sc. Data Science – Digital Health | SRH University of Applied Sciences, Fürth/Nürnberg | 2025 – 2027 |
 | 🎓 B.Sc. Occupational Health & Safety | Shahid Beheshti University of Medical Sciences, Tehran | 2018 – 2022 |
-
-**M.Sc. Relevant Modules:** Data Analytics & Management · Data Processing · Programming · Visualization & Dashboards · Statistics · Health Systems & Law · E-Health & Telemedicine
 
 ---
 
