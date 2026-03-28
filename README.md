@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Science+%26+Digital+Health+Master%27s+Student;Healthcare+AI+%7C+ML+%7C+Full-Stack+Development;Next.js+%7C+NestJS+%7C+React+%7C+Flutter;Passionate+about+MLOps+%26+Clinical+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Science+%26+AI+Engineering;Fullstack+Engineering+%7C+Deep+Learning;Next.js+%7C+NestJS+%7C+React+%7C+Flutter;Health+Tech+Solutions+%26+MLOps" alt="Typing SVG" />
 </h3>
 
 </div>
@@ -17,17 +17,14 @@
 ### 🎯 **About Me**
 
 * • 👤 **Name:** Amirhossein Bemani Vandish
-* • 🎓 **Role:** M.Sc. Data Science & Digital Health Student (In Progress)
+* • 🎓 **Role:** Data Science & AI Engineering
 * • 📍 **Location:** Nürnberg, Germany 🇩🇪
 * • 🗣️ **Languages:** Persian (Native), English (Professional), German (A2 – actively improving)
 * • 💻 **Programming:** Python, SQL, R
 * • 📫 **Contact:** amir@bemani.me
 
-#### 🔬 Current Focus
-
-* • 📚 **Learning:** Docker, MLOps, Cloud (AWS/Azure)
-* • 💡 **Interests:** Healthcare AI, Medical Imaging, A/B Testing, Full-Stack Development
-* • 🤝 **Seeking:** Working Student / Junior Data Science or Full-Stack roles in Germany
+#### 🔭 Overview
+I am a versatile Data Scientist and Fullstack Developer with a background in digital health modeling and smart platform engineering. I focus on bridging highly modular machine learning architectures with efficient front-end layers to solve industry-scalable issues.
 
 #### 🛠️ Skills Summary
 
@@ -100,63 +97,67 @@
 
 ## 🏆 **Highlighted Projects**
 
-### 🫀 Heart Disease Prediction — ML University Project
-> **Course:** Machine Learning | SRH University Nürnberg
+### 👷 Safety Helmet Detection — Real-Time Computer Vision
+> **Tech:** YOLOv8 · Python · Computer Vision
 > 
-> Built a classification model to predict heart disease risk using clinical features. Applied feature engineering, model comparison (Logistic Regression, Random Forest, SVM, KNN), cross-validation, and deep performance evaluation (ROC-AUC: 0.908, F1-score, confusion matrices).
-> 
-> **Tech:** Python · Scikit-learn · Pandas · Matplotlib · Seaborn · Jupyter
+> Real-time computer vision system utilizing YOLOv8 for safety compliance. Bypasses standard hardware loops to ingest multi-source live monitors reliably.
 
 ---
 
-### 🍽️ Dönerhaus Nürnberg — Full-Stack Restaurant Platform & Loyalty Club
-> **Type:** Independent Full-Stack Project | 2026
+### 🫀 Heart Disease Risk Prediction — Comparative Analysis
+> **Tech:** Scikit-learn · Python · Pandas · UCI Cardiac datasets
 > 
-> Built a complete web application for a restaurant in Nuremberg including marketing pages, a digital loyalty club, admin panel, and seller dashboard.
-> - 🎟️ QR-based loyalty system with digital membership cards, stamp tracking & tiered rewards (5/9/12/20 stamps)
-> - 🔐 JWT-based role management (Admin / Seller) and customer analytics (visits, revenue, churn risk)
-> 
-> **Tech:** Next.js · TypeScript · React · Tailwind CSS · Supabase · Prisma · JWT · GSAP
+> Comparative model training analysis (Logistic Regression, KNN, SVM) on UCI Cardiac datasets archiving accurate diagnostic trend distributions.
 
 ---
 
-### 🛒 Persia Market — Multi-Role E-Commerce System
-> **Type:** Full-Stack Platform | 2025–2026
+### 🍽️ Dönerhaus Nürnberg — Full-Stack Restaurant Ecosystem
+> **Tech:** Next.js · TypeScript · Supabase · Prisma · GSAP
 > 
-> Designed a multi-platform ecosystem with separate interfaces for admins, sellers, end-users, and couriers.
-> - 📦 Real-time inventory per store, payment tracking, delivery workflows
-> - 🗺️ GPS-based store mapping and support ticketing system
-> - 🌍 Multi-language support (FA / EN / DE) · Backend: Render · Frontend: Vercel
+> Multi-layered Next.js restaurant ecosystem factoring in digital QR loyalty passes, CRM dashboards, and optimized marketing static pipelines.
+
+---
+
+### 🏥 Medical Dataset Diagnostics — Explorative Data Analysis (EDA)
+> **Tech:** Python · Data Analytics · Dashboards
 > 
-> **Tech:** NestJS · Next.js · Flutter · PostgreSQL · Prisma · JWT
+> In-depth explorative data analysis (EDA) framing clinical patient metric analytics and health benchmark trend forecast dashboards.
+
+---
+
+### 🏗️ OSHA Incident Analysis — Predictive Hazard Mitigation
+> **Tech:** Data Auditing · Predictive Analytics · Reporting
+> 
+> Deep audit of high-rise construction workplace site failure trends supporting predictive hazard mitigation auditing and dynamic reporting.
 
 ---
 
 ## 💼 **Work Experience**
 
-### 🏭 HSE Engineer — Azarestan Civil Engineering Co. (Construction)
-> 📅 Aug 2021 – Jul 2022 | Tehran, Iran
+### 🥛 HSE Specialist — Teen Dairy Co. (Damdaran)
+> 📅 Nov 2023 – Sep 2024
 > 
-> Monitored occupational safety on construction sites and implemented risk mitigation measures in collaboration with site managers and engineers.
+> - Ensured ISO and 5S compliance in a large-scale food production facility with 200+ staff.
+> - Conducted regular safety audits, risk assessments, and incident investigations.
+> - Led staff training programs on safety protocols and hygiene procedures.
+> - Prepared management reports and KPI dashboards for executive review.
 
 ---
 
-### 🥛 HSE Specialist — Teen Dairy Co. (Damdaran) (Food Production)
-> 📅 Nov 2023 – Sep 2024 | Tehran, Iran
+### 🏭 HSE Engineer — Azarestan Civil Engineering Co.
+> 📅 Aug 2021 – Jul 2022
 > 
-> - Ensured ISO and 5S compliance in a large-scale food production plant
-> - Conducted safety audits and risk assessments
-> - Prepared management reports and led staff training on safety & hygiene procedures
+> - Monitored occupational safety compliance on high-rise construction sites.
+> - Implemented risk mitigation protocols in coordination with project engineers and site managers.
+> - Performed regular safety inspections and reported findings to senior management.
 
 ---
 
-### 🏥 HSE Intern — Kasra Hospital (Hospital Environment)
-
-> 📅 Mar 2021 – Jul 2021 | Tehran, Iran
-> >
-> >> Supported the implementation of hygiene and safety protocols in a clinical hospital environment. Assisted in risk assessments, safety inspections and compliance monitoring in accordance with healthcare regulations.
-> >>
-> >> ---
+### 🏥 HSE Intern — Hospital Environment (Kasra Hospital)
+> 📅 Mar 2021 – Jul 2021
+> 
+> - Supported implementation of hygiene and safety protocols in a clinical hospital environment.
+> - Assisted in risk assessments, safety inspections and compliance monitoring per healthcare regulations.
 
 ## 🎓 **Education**
 
